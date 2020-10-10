@@ -20,7 +20,7 @@ disqusShortname = ""
 
   # Provide your metadata here.
   name = "Alexandros Sklavounos"
-  description = "Medical Doctor turned (potentially) finance professional"
+  description = "MFA student with healthcare background"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -93,20 +93,20 @@ disqusShortname = ""
     
     [[params.tiles.showcase]]
       title = "HW1"
-      subtitle = "Ipsum Dolor Sit Amet"
-      image = "pic01.jpg"
+      subtitle = "Very first R - Project"
+      image = "pic1.jpg"
       url = "blogs/aliquam"
 
     [[params.tiles.showcase]]
       title = "Tempus"
       subtitle = "Feugiat Amet Tempus"
-      image = "pic02.jpg"
+      image = "pic2.jpg"
       url = "blogs/tempus"
 
     [[params.tiles.showcase]]
       title = "Magna"
       subtitle = "Lorem Etiam Nullam"
-      image = "pic03.jpg"
+      image = "pic3.jpg"
       url = "blogs/magna"
 
     [[params.tiles.showcase]]
@@ -137,15 +137,15 @@ disqusShortname = ""
 
   # Section Type Two
   [params.two]
-    enable = true
-    title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
-    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
-    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
-    buttonText = "Get Started"
-    url = "blogs"
+ #   enable = true
+#    title = "Massa libero"
+#    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
+#    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
+#    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+#    Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
+#    Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
+#    buttonText = "Get Started"
+#    url = "blogs"
 
 
   # Contact section
@@ -219,3 +219,4 @@ disqusShortname = ""
       text = "#: "
       url= "#"
       alt = "#"
+      
